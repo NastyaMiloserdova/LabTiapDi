@@ -11,5 +11,5 @@ while f < len(str2):
 str1 = ''
 for elem in str2:
  if len(elem) > 5:
-  str1 +=  elem + ' - '
+    str1 += elem + ' - '
 print(str1)
